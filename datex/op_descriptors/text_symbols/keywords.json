@@ -1,0 +1,47 @@
+[
+  ["aligned"],
+  ["centered", "r", ["gathered", "bare"]],
+  ["multiline", "r", ["multline", "bare"]],
+
+  ["cases"],
+  ["rcases", "r", "", ["rightcases"]],
+
+  ["matrix"],
+  ["smallmatrix"],
+  ["bmatrix", "r", "", ["bracketsmatrix"]],
+  ["pmatrix", "r", "", ["parensmatrix"]],
+  ["Bmatrix", "r", "", ["bracesmatrix"]],
+  ["vmatrix", "r", ""],
+  ["vvmatrix", "r", "Vmatrix"],
+
+  ["leftarrow"],
+  ["rightarrow"],
+
+  ["acute", "r", "\\text{improper accent location}"],
+  ["grave", "r", "\\text{improper accent location}"],
+  ["hat", "r", "\\text{improper accent location}"],
+  ["tilde", "r", "\\text{improper accent location}"],
+  ["ddot", "r", "\\text{improper accent location}", ["twodots", "doubledot"]],
+  ["bar", "r", "\\text{improper accent location}"],
+  ["breve", "r", "\\text{improper accent location}"],
+  ["vec", "r", "\\text{improper accent location}", ["vector"]],
+  ["dddot", "r", "\\text{improper accent location}", ["threedots", "tripledot"]],
+  ["ring", "r", "\\text{improper accent location}"],
+  ["widetilde", "r", "\\text{improper accent location}"],
+  ["widehat", "r", "\\text{improper accent location}"],
+  ["overline", "r", "\\text{improper accent location}"],
+  ["underline", "r", "\\text{improper accent location}"],
+  ["overbrace", "r", "\\text{improper accent location}"],
+  ["underbrace", "r", "\\text{improper accent location}"],
+  ["underrightarrow", "r", "\\text{improper accent location}"],
+  ["underleftarrow", "r", "\\text{improper accent location}"],
+  ["underleftrightarrow", "r", "\\text{improper accent location}"],
+
+  ["end"],
+
+  ["align", "r", ["&", "bare"]],
+  ["col", "r", ["&", "bare"], ["column"]],
+
+  ["limstyle", "r", [" ", "bare"], ["limitstyle"]],
+  ["sidestyle", "r", [" ", "bare"]]
+]

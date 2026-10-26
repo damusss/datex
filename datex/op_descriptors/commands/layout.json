@@ -1,0 +1,21 @@
+[
+  ["la", 1, ["left", "leftauto"]],
+  ["ra", 1, ["right", "rightauto"]],
+  ["lb", 1],
+  ["lbb", 1],
+  ["lB", 1],
+  ["lBB", 1],
+  ["rb", 1],
+  ["rbb", 1],
+  ["rB", 1],
+  ["rBB", 1],
+
+  ["begin", ["end", 1]],
+  ["substack", ["end", 0]],
+  ["boxed", 1],
+
+  ["neg", [1, 0], ["negative", "negspace", "negativespace"]],
+  ["phantom", 1],
+  ["dots", [1, 0]],
+  ["cancel", [1, 1]]
+]

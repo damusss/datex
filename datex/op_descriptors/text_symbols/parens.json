@@ -1,0 +1,18 @@
+[
+  ["lbrace", "r", "\\", ["leftbrace"]],
+  ["rbrace", "r", "\\", ["rightbrace"]],
+  ["lvert", "r", "\\", ["lvertical", "leftvertical"]],
+  ["rvert", "r", "\\", ["rvertical", "rightvertical"]],
+  ["lvvert", "r", "\\lVert", ["ldoublevertical", "leftdoublevertical"]],
+  ["rvvert", "r", "\\rVert", ["rdoublevertical", "rightdoublevertical"]],
+  ["langle", "r", "\\", ["leftangle"]],
+  ["rangle", "r", "\\", ["rightangle"]],
+  ["lceil", "r", "\\", ["leftceil"]],
+  ["rceil", "r", "\\", ["rightceil"]],
+  ["lfloor", "r", "\\", ["leftfloor"]],
+  ["rfloor", "r", "\\", ["rightfloor"]],
+  ["lgroup", "r", "\\", ["leftgroup"]],
+  ["rgroup", "r", "\\", ["rightgroup"]],
+  ["lmustache", "r", "\\", ["leftmustache"]],
+  ["rmustache", "r", "\\", ["rightmustache"]]
+]

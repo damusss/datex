@@ -1,0 +1,11 @@
+[
+  ["bbstyle", 1, ["blackboardbold", "bbs"]],
+  ["bfstyle", 1, ["boldface", "bfs"]],
+  ["calstyle", 1, ["calligraphic", "cals"]],
+  ["frakstyle", 1, ["franktur", "fraks"]],
+
+  ["inline", 1, ["inlinestyle"]],
+  ["full", 1, ["fullstyle"]],
+  ["script", 1, ["scriptstyle"]],
+  ["nestedscript", 1, ["nestedscriptstyle"]]
+]

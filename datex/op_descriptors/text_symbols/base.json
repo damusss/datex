@@ -1,0 +1,50 @@
+[
+  ["forall", "ur", "\\"],
+
+  ["in", "b", "\\"],
+  ["notin", "b", "\\nin"],
+
+  ["subset", "b", "\\"],
+  ["supset", "b", "\\"],
+  ["notsubset", "b", "\\nsubset"],
+  ["notsupset", "b", "\\nsupset"],
+  ["subseteq", "b", "\\"],
+  ["supseteq", "b", "\\"],
+  ["notsubseteq", "b", "\\nsubseteq"],
+  ["notsupseteq", "b", "\\nsupseteq"],
+
+  ["unites", "b", "\\cup"],
+  ["intersects", "b", "\\cap"],
+
+  ["and", "b", "\\land"],
+  ["or", "b", "\\lor"],
+
+  ["exists", "ur", "\\"],
+  ["notexists", "ur", "\\nexists"],
+
+  ["parallel", "b", "\\"],
+  ["perp", "b", "\\", ["perpendicular"]],
+  ["proportional", "b", "\\propto"],
+
+  ["sum", "ur", ["\\", "bare"], ["summation"]],
+  ["prod", "ur", ["\\", "bare"], ["product"]],
+  ["lim", "ur", ["\\", "bare"], ["limit"]],
+  ["int", "ur", ["\\", "bare"], ["integral"]],
+  ["doubleint", "ur", ["\\iint", "bare"], ["doubleintegral"]],
+  ["tripleint", "ur", ["\\iiint", "bare"], ["tripleintegral"]],
+  ["contourint", "ur", ["\\oint", "bare"], ["contourintegral"]],
+
+  ["rlim", "b", "\\varinjlim", ["rightlim"]],
+  ["llim", "b", "\\varprojlim", ["leftlim"]],
+
+  ["dot", "b", "\\cdot"],
+  ["times", "b", "\\"],
+  ["divides", "b", "\\div", ["divide"]],
+  ["convolutes", "b", "\\ast", ["asterisk", "convolute"]],
+  ["circleplus", "b", "\\bigoplus"],
+  ["circletimes", "b", "\\bigotimes"],
+  ["circledot", "b", "\\bigodot"],
+
+  ["partial", "r", "\\"],
+  ["nabla", "r", "\\", ["del"]]
+]

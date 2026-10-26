@@ -1,0 +1,22 @@
+[
+  ["reals", "r", "\\mathbb{R}"],
+  ["naturals", "r", "\\mathbb{N}"],
+  ["integers", "r", "\\mathbb{Z}"],
+  ["rationals", "r", "\\mathbb{Q}"],
+  ["complexes", "r", "\\mathbb{C}"],
+
+  ["inf", "r", "\\infty", ["infinity"]],
+  ["null", "r", "\\varnothing", ["nothing", "none"]],
+  ["emptyset", "r", "\\", ["empty"]],
+
+  ["imath", "r", "\\"],
+  ["jmath", "r", "\\"],
+
+  ["Re", "r", "\\"],
+  ["Im", "r", "\\"],
+
+  ["hbar", "r", "\\"],
+  ["hslash", "r", "\\"],
+  ["el", "r", "\\ell"],
+  ["aleph", "r", "\\"]
+]
