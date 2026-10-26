@@ -1,0 +1,14 @@
+[project]
+name = "datex"
+description = "DaTex parser and translator to LaTex"
+version = "1.0.0"
+requires-python = ">=3.14"
+dependencies = []
+readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "Damiano Ricciardi", email = "ricciardi.damiano06@gmail.com" }
+]
+
+[project.urls]
+Repository = "https://github.com/damusss/datex"

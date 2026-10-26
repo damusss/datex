@@ -1,7 +1,7 @@
 # DaTex
 
 DaTex is a Python library that is able to convert the DaTex syntax, a custom math domain language inspired by LaTex, into equivalent LaTex code that can be rendered by editors and applications like Obsidian.
-
+___
 ### Syntax Summary
 The language's syntax was designed to make LaTex be quicker to type to take notes during lessons and to replace parts of its verbosity while keeping the majority of the math features of LaTex.
 
@@ -9,7 +9,7 @@ Unlike LaTex, DaTex focuses entirely on math, and not general documents, and doe
 
 ### Obsidian Integration
 While the library can be used for any purpose, this repository is specifically tailored to provide an Obsidian plugin that can render LaTex math using a code block with the `datex` language.
-
+___
 ### How to use
 To use the library, clone this repository, as it is not distributed through PyPI. The library contains the `commands` module that contains the logic for syntax commands, the `error` module to except errors and the `datex` module that contains the lexer, parser, and translator implementations. The top-level of the library only exposes the most common function:
 ```python
